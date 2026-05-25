@@ -1,2 +1,0 @@
-# Algorithm-Problems
-homework
